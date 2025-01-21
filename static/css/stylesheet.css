@@ -1,0 +1,17 @@
+h2{
+    color: blue;
+    text-align: center;
+    font-family: "Inter Semi Bold";
+    font-size: 20px;
+}
+table{
+    width:100%
+}
+td,th{
+    border: 20px solid #020101;
+    padding: 10px;
+    text-align: center;
+}
+th{
+    color: rgba(1, 1, 11, 0.97);
+}
